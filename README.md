@@ -1,4 +1,4 @@
-<h1 align="center">Hello there. My name is Mohamad Ridwan Masykur</h1>
+<h1 align="center">Mohamad Ridwan Masykur</h1>
 
 [![Gmail Badge](https://img.shields.io/badge/-ridwanmasykur05@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ridwanmasykur05@gmail.com)](mailto:ridwanmasykur05@gmail.com) 
 [![Github Badge](https://img.shields.io/badge/-RidwanMasykur-grey?style=flat&logo=github&logoColor=white&link=https://github.com/RidwanMasykur/)](https://www.github.com/RidwanMasykur/) <p align='left'>
