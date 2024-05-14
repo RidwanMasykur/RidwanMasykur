@@ -4,7 +4,7 @@
 [![Github Badge](https://img.shields.io/badge/-RidwanMasykur-grey?style=flat&logo=github&logoColor=white&link=https://github.com/RidwanMasykur/)](https://www.github.com/RidwanMasykur/) <p align='left'>
 
 - 🔭 I’m currently studying on Universitas Jember
-- 🌱 I’m currently learning Computer Science
+- 🖥️ I’m currently learning Computer Science
 - 📫 How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamadridwanmasykur/)](https://www.linkedin.com/in/mohamadridwanmasykur/)
 - 😄 Pronouns: He/Him/Male (There are only 2 genders)</p><p align='left'> You can view my own website <a href="https://wayneportfolioweb.netlify.app/" target="_blank" rel="noopener noreferrer"><u>here</u>.</a></p>
 ## Some of my Github Stats
