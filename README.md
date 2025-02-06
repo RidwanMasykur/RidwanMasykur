@@ -7,7 +7,7 @@
 - 🖥️ I’m currently learning Computer Science
 - 📫 How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamadridwanmasykur/)](https://www.linkedin.com/in/mohamadridwanmasykur/)
 - 😄 Pronouns: He/Him/Male (There are only 2 genders)
-  </p><p align='left'> You can view my own website <a href="https://wayneportfolioweb.netlify.app/" target="_blank" rel="noopener noreferrer"><u>here</u>.</a></p>
+  </p><p align='left'> You can view my own website <a href="https://wayneweb.netlify.app/" target="_blank" rel="noopener noreferrer"><u>here</u>.</a></p>
   </p><p align='left'> Don't forget to support me by clicking this <a href="https://sociabuzz.com/bettercallwayne" target="_blank" rel="noopener noreferrer"><u>treat</u>.😍</a></p>
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=RidwanMasykur alt=RidwanMasykur /> </p>
